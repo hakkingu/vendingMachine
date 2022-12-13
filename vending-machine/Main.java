@@ -17,7 +17,7 @@ import java.util.Scanner;
             { new Item("Mountain Dew", 1.99, 2) , new Item("Cola", 1.49, 2), new Item("Berry", 2.49, 1) }
         };
 
-        //Call the machine from MachineComplete.java, and then make a new one with the 'items' in the parenthesis for copying. 
+        //Call the machine from Machine.java, and then make a new one with the 'items' in the parenthesis for copying. 
         //After that, print that out.
         Machine machine = new Machine(items);
 
